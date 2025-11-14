@@ -6,3 +6,6 @@ A garbage detection tool using computer vision, trained with YOLOv11 on the data
 AI model trained and fine-tuned by - Dawis Meedech
 Model deployment done by - Num Chakhatanon
 Dataset Owner - Suman Kunwar
+
+
+Currently in-progress, expect occasional errors in new versions(occurs during test and run).
